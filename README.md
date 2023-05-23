@@ -20,7 +20,7 @@ src="https://sun9-15.userapi.com/impg/hcIjFB6LiAftDGBe3XqijEYEIQ1gyngsz7x8BA/qw0
 <h2>I am running a jewelry store. Below are the activities I implemented.</h2>
 <p><b>Login activity</b></p>
 <p>
-<img class="ViewerImage__image--1zqMP" src="https://psv4.userapi.com/c237131/u305704763/docs/d11/6d2f7699d625/20230523_111911.gif?extra=gDbe4TIll5Hi83FvJTLzyRCfdE_dpMSK4t3q1AcvGvRUnJiiFvuZVZnY35HHmnHR0gjd1SHy_CZIb3Jze0Wf-10b4obkN0Pcq5466wdo9RmTStoqoZgOzVdVMWjORirc1XDZ-aCcqkFfSM3DSlSq64rAz6w" alt="20230523_111911.gif">
+<img src="https://github.com/polinkasosiska/store/blob/master/resoursces/video.gif?raw=true" width="324" height="702" alt="login0">
 <img  src="https://sun9-7.userapi.com/impg/7pp3ycOPofrQ5U4n3tw1Lmk-iRbj10WMVrQbfw/m6i6ryo3BIg.jpg?size=997x2160&quality=95&sign=b014386e6a4c9a329d8099e6ac3c3813&type=album"  width="324" height="702" alt="login1">
 <img  src="https://sun9-9.userapi.com/impg/gTPlrLGlgbHfPpsPfplTPBjL98wi7ngQV2DQoQ/CocJhvv6l1g.jpg?size=997x2160&quality=95&sign=99ab99df4835dd0ee8ea6c1c26439628&type=album"  width="324" height="702" alt="login2">
  </p>
