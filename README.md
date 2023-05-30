@@ -24,3 +24,7 @@ src="https://sun9-15.userapi.com/impg/hcIjFB6LiAftDGBe3XqijEYEIQ1gyngsz7x8BA/qw0
 <img  src="https://sun9-7.userapi.com/impg/7pp3ycOPofrQ5U4n3tw1Lmk-iRbj10WMVrQbfw/m6i6ryo3BIg.jpg?size=997x2160&quality=95&sign=b014386e6a4c9a329d8099e6ac3c3813&type=album"  width="324" height="702" alt="login1">
 <img  src="https://sun9-9.userapi.com/impg/gTPlrLGlgbHfPpsPfplTPBjL98wi7ngQV2DQoQ/CocJhvv6l1g.jpg?size=997x2160&quality=95&sign=99ab99df4835dd0ee8ea6c1c26439628&type=album"  width="324" height="702" alt="login2">
  </p>
+
+
+
+так, у менея есть такой же пролект, но на sql, а этот я хочу сделать json + nosql,  так как с точки зрения подвязки картьинок к бэку - так будет получше
